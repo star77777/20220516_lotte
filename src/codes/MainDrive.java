@@ -92,21 +92,27 @@ public class MainDrive {
 //        switch(correctCount) {
 //        case 6:
 //        	System.out.print("축 당첨1등");
+//        break;
 //        }
 	//case 5:
 //    	System.out.print("축 당첨2등");
+//      break;
 //    }
       //case 4:
 //    	System.out.print("축 당첨3등");
+//      break;
 //    }
       //case 3:
 //    	System.out.print("축 당첨4등");
+//      break;
 //    }
       //case 2:
 //    	System.out.print("축 당첨5등");
+//      break;
 //    }
       //case 1:
 //    	System.out.print("축 당첨6등");
+        //        break;
 //    }
 	}
 }
